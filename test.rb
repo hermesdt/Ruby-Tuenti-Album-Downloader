@@ -26,4 +26,3 @@ M.post(LOGIN_URL, {:email => user, :input_password => pass, :timezone => Time.no
 puts M.get(HOME_URL).body
 puts M.get(ALBUMS_URL).body
 
-
