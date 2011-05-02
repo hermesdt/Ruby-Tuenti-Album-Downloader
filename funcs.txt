@@ -1,0 +1,16 @@
+?m=Multiitemsearch&func=get_friends_for_datasource&ajax=1
+?m=Multiitemsearch&func=get_pages_for_datasource&ajax=1
+?m=Multiitemsearch&func=get_places_for_datasource&ajax=1
+?m=Multiitemsearch&func=get_games_for_datasource&ajax=1
+?m=Multiitemsearch&func=get_videos_for_datasource&ajax=1
+?m=Profile&func=index&ajax=1
+?m=Photo&func=view_photo&ajax=1
+?m=Albumsshowcase&func=index&ajax=1
+?m=Home&func=index&ajax=1
+?m=Chat&func=ping&ajax=1
+?m=Friendsimporternew&func=index&ajax=1
+?m=Search&func=get_user_albums_for_data_source&ajax=1
+?m=Albums&func=index&ajax=1
+?m=Statistics&func=log&ajax=1
+?m=Photoedit&func=process_init_edit_photo&ajax=1
+?m=Albums&func=view_album_display&ajax=1
